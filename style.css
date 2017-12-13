@@ -16,7 +16,7 @@ h3 {
 }
 
 .main-text {
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 
 .container {
@@ -38,10 +38,11 @@ h3 {
 }
 
 .sidebar {
-	background: #fff;
+	background: #f4f4f4;
 	width: 25%;
 	margin-bottom: 20px;
 	float: left;
+	min-height: 1000px;
 }
 
 .clearfix:after {
@@ -49,3 +50,25 @@ h3 {
 	display: table;
 	clear: both;
 } 
+
+iframe {
+	margin-bottom: 30px;
+}
+
+.profile {
+	border: 1px solid #a09b9b;
+	padding: 20px;
+	background: #0eacea;
+	margin-top: 30px;
+}
+
+.profile img {
+	margin: 30px 0 30px 0;
+}
+
+.komentar {
+	border: 1px solid #888;
+	padding: 20px; 
+}
+
+
